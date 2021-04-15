@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import {useState} from 'react';
 import Statistic from './components/Statics/Statics'
 
